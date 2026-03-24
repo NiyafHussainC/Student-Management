@@ -1,7 +1,7 @@
 # Student Management System
 
 ## Project Title
-Student Management System (ProjectName_RollNumber: StudentManagement_68)
+Student Management System (ProjectName_RollNumber: Student-Management)
 
 ## Problem Statement
 Managing student records manually is time-consuming and error-prone. This project aims to build a graphical user interface (GUI) application to efficiently add, update, delete, search, and view student details such as roll number, name, course, marks, and attendance.
@@ -14,11 +14,11 @@ Managing student records manually is time-consuming and error-prone. This projec
 ## Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/StudentManagement_68.git
+   git clone https://github.com/NiyafHussainC/Student-Management.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd StudentManagement_68
+   cd Student-Management
    ```
 3. No external dependencies via `pip` are required. The project exclusively uses Python's standard libraries.
 

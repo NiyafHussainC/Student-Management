@@ -1,0 +1,4 @@
+# No external dependencies are required.
+# The project uses standard Python libraries:
+# - tkinter
+# - sqlite3
